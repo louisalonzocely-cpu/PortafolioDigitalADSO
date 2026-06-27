@@ -23,14 +23,14 @@ body {
 
 body.modo-oscuro {
   background-color: var(--color-fondo-oscuro);
-  color: var(--color-texto-oscuro);
+  color: var(--color-fondo);
 }
 
 body.modo-oscuro .tarjeta,
 body.modo-oscuro .acordeon-contenido,
 body.modo-oscuro .formulario {
   background-color: #2A2A2A;
-  color: var(--color-texto-oscuro);
+  color: var(--color-fondo);
 }
 
 /* ---------- ENCABEZADO ---------- */
