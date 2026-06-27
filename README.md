@@ -1,15 +1,15 @@
-# [NOMBRE DE TU EMPRESA]
+# STUDIO SHONOS
 
-Hoja de vida digital / portafolio web de **[NOMBRE DE TU EMPRESA]**, empresa
+Hoja de vida digital / portafolio web de **STUDIO SHONOS**, empresa
 ficticia del proyecto formativo del programa Tecnología en Análisis y
 Desarrollo de Software (ADSO) - SENA, Centro de Comercio y Servicios,
 Regional Bolívar.
 
 ## Equipo de desarrollo
 
-- [Nombre integrante 1] - Líder del repositorio / Identidad de marca
-- [Nombre integrante 2] - Buscador de integrantes por habilidad
-- [Nombre integrante 3] - Formulario de contacto con validación
+- [Brandon Bonilla Zabaleta] - Líder del repositorio / Identidad de marca
+- [Luis Alonso Cely Arias] - Buscador de integrantes por habilidad
+- [Juan Sebastian Cardona Morales] - Formulario de contacto con validación
 
 ## Estructura del proyecto
 
