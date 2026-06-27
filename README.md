@@ -36,8 +36,8 @@ Visual Studio Code para recargar automáticamente con cada cambio.
 
 - [x] Modo claro / oscuro
 - [x] Acordeón de Misión, Visión y Valores
-- [ ] Buscador de integrantes por habilidad (rama `feature/buscador-habilidades`)
-- [ ] Formulario de contacto con validación (rama `feature/formulario-contacto`)
+- [x] Buscador de integrantes por habilidad (rama `feature/buscador-habilidades`)
+- [x] Formulario de contacto con validación (rama `feature/formulario-contacto`)
 
 ## Sitio publicado
 
