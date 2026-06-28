@@ -9,7 +9,7 @@
   --color-fondo: #F5F7FA;           /* PERSONALIZA */
   --color-fondo-oscuro: #1A1A1A;
   --color-texto-oscuro: #F5F7FA;
-  --color-tarjeta: #FFFFFF;
+  --color-tarjeta: #d5ddf2;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -38,6 +38,14 @@ body.modo-oscuro .seccion h2 {
 }
 
 .seccion h2 { margin-right: 2rem; }
+
+body.modo-oscuro .tarjeta a {
+  color: var(--color-texto-oscuro);
+}
+
+body.modo-oscuro .tarjeta p {
+  color: var(--color-texto-oscuro);
+}
 
 /* ---------- ENCABEZADO ---------- */
 .encabezado {
